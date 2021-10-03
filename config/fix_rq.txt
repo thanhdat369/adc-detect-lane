@@ -1,0 +1,1 @@
+,"comunicate_config":{"signalr_url":"","issue_api_url":""}}

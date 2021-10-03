@@ -1,0 +1,2 @@
+class MockSession:
+    deviceDTO = None

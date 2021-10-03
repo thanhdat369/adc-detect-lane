@@ -1,0 +1,9 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.pycodestyleEnabled": false,
+    ".Path": "D:\\tool_install\\Anaconda2\\envs\\test_env\\.exe",
+    "python.linting.pylamaEnabled": false,
+    "python.pythonPath": "/home/pi/AVC/adc_env/bin/python3.7",
+    "python.linting.banditEnabled": false
+}

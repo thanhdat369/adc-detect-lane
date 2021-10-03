@@ -1,0 +1,33 @@
+{
+    "hardware_config": {
+        "camera_index": 0,
+        "motor_port": 13,
+        "servo_port": 12,
+        "trigger_port": 25,
+        "echo_port": 24
+    },
+    "detect_lane_config": {
+        "height_center_point": 350,
+        "width_center_point": 320,
+        "low_h": 450,
+        "high_h": 390,
+        "threshold_lane_px":35
+    },
+    "speed_config": {
+        "speed_up_speed_val": 1603,
+        "slow_down_speed_val": 1585,
+        "slow_down_speed_turn":1588,
+        "normal_speed_val": 1590,
+        "pause_speed_val": 1500,
+        "backward_speed_val": 1375,
+        "motor_prepair_value": 1500
+    },
+    "servo_config": {
+        "center_servo": 1503,
+        "range_value": 500
+    },
+    "comunicate_config":{
+        "signalr_url":"https://avc-api.azurewebsites.net/hub",
+        "issue_api_url":"https://avc-api.azurewebsites.net/api/issue"
+    }
+}

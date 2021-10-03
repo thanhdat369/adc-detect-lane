@@ -1,0 +1,1210 @@
+[
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "Thread",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "Lock",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "Thread",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "Lock",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "Thread",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "Lock",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "cv2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cv2",
+        "description": "cv2",
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "pigpio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pigpio",
+        "description": "pigpio",
+        "detail": "pigpio",
+        "documentation": {}
+    },
+    {
+        "label": "CarStateDTO",
+        "importPath": "controls.car_state_dto",
+        "description": "controls.car_state_dto",
+        "isExtraImport": true,
+        "detail": "controls.car_state_dto",
+        "documentation": {}
+    },
+    {
+        "label": "CarStateDTO",
+        "importPath": "controls.car_state_dto",
+        "description": "controls.car_state_dto",
+        "isExtraImport": true,
+        "detail": "controls.car_state_dto",
+        "documentation": {}
+    },
+    {
+        "label": "CarStateDTO",
+        "importPath": "controls.car_state_dto",
+        "description": "controls.car_state_dto",
+        "isExtraImport": true,
+        "detail": "controls.car_state_dto",
+        "documentation": {}
+    },
+    {
+        "label": "CarStateDTO",
+        "importPath": "controls.car_state_dto",
+        "description": "controls.car_state_dto",
+        "isExtraImport": true,
+        "detail": "controls.car_state_dto",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.image",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.image",
+        "description": "matplotlib.image",
+        "detail": "matplotlib.image",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "config",
+        "description": "config",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "image_process",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "image_process",
+        "description": "image_process",
+        "detail": "image_process",
+        "documentation": {}
+    },
+    {
+        "label": "CameraGet",
+        "importPath": "camera.camera",
+        "description": "camera.camera",
+        "isExtraImport": true,
+        "detail": "camera.camera",
+        "documentation": {}
+    },
+    {
+        "label": "CameraGet",
+        "importPath": "camera.camera",
+        "description": "camera.camera",
+        "isExtraImport": true,
+        "detail": "camera.camera",
+        "documentation": {}
+    },
+    {
+        "label": "CameraGet",
+        "importPath": "camera.camera",
+        "description": "camera.camera",
+        "isExtraImport": true,
+        "detail": "camera.camera",
+        "documentation": {}
+    },
+    {
+        "label": "CameraGet",
+        "importPath": "camera.camera",
+        "description": "camera.camera",
+        "isExtraImport": true,
+        "detail": "camera.camera",
+        "documentation": {}
+    },
+    {
+        "label": "Method2Middle",
+        "importPath": "detect_lane.two_middle.two_middle",
+        "description": "detect_lane.two_middle.two_middle",
+        "isExtraImport": true,
+        "detail": "detect_lane.two_middle.two_middle",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "supports.draw",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "supports.draw",
+        "description": "supports.draw",
+        "detail": "supports.draw",
+        "documentation": {}
+    },
+    {
+        "label": "draw_line",
+        "importPath": "supports.draw",
+        "description": "supports.draw",
+        "isExtraImport": true,
+        "detail": "supports.draw",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "EasyDict",
+        "importPath": "easydict",
+        "description": "easydict",
+        "isExtraImport": true,
+        "detail": "easydict",
+        "documentation": {}
+    },
+    {
+        "label": "tensorflow",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tensorflow",
+        "description": "tensorflow",
+        "detail": "tensorflow",
+        "documentation": {}
+    },
+    {
+        "label": "sign_detect.yolo.config",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sign_detect.yolo.config",
+        "description": "sign_detect.yolo.config",
+        "detail": "sign_detect.yolo.config",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigProto",
+        "importPath": "tensorflow.compat.v1",
+        "description": "tensorflow.compat.v1",
+        "isExtraImport": true,
+        "detail": "tensorflow.compat.v1",
+        "documentation": {}
+    },
+    {
+        "label": "InteractiveSession",
+        "importPath": "tensorflow.compat.v1",
+        "description": "tensorflow.compat.v1",
+        "isExtraImport": true,
+        "detail": "tensorflow.compat.v1",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigProto",
+        "importPath": "tensorflow.compat.v1",
+        "description": "tensorflow.compat.v1",
+        "isExtraImport": true,
+        "detail": "tensorflow.compat.v1",
+        "documentation": {}
+    },
+    {
+        "label": "InteractiveSession",
+        "importPath": "tensorflow.compat.v1",
+        "description": "tensorflow.compat.v1",
+        "isExtraImport": true,
+        "detail": "tensorflow.compat.v1",
+        "documentation": {}
+    },
+    {
+        "label": "timeit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "timeit",
+        "description": "timeit",
+        "detail": "timeit",
+        "documentation": {}
+    },
+    {
+        "label": "YoloDetect",
+        "importPath": "sign_detect.yolo.detect",
+        "description": "sign_detect.yolo.detect",
+        "isExtraImport": true,
+        "detail": "sign_detect.yolo.detect",
+        "documentation": {}
+    },
+    {
+        "label": "YoloDetect",
+        "importPath": "sign_detect.yolo.detect",
+        "description": "sign_detect.yolo.detect",
+        "isExtraImport": true,
+        "detail": "sign_detect.yolo.detect",
+        "documentation": {}
+    },
+    {
+        "label": "YoloDetect",
+        "importPath": "sign_detect.yolo.detect",
+        "description": "sign_detect.yolo.detect",
+        "isExtraImport": true,
+        "detail": "sign_detect.yolo.detect",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "TwoMidMethodManager",
+        "importPath": "detect_lane.two_middle.two_middile_manager",
+        "description": "detect_lane.two_middle.two_middile_manager",
+        "isExtraImport": true,
+        "detail": "detect_lane.two_middle.two_middile_manager",
+        "documentation": {}
+    },
+    {
+        "label": "TwoMidMethodManager",
+        "importPath": "detect_lane.two_middle.two_middile_manager",
+        "description": "detect_lane.two_middle.two_middile_manager",
+        "isExtraImport": true,
+        "detail": "detect_lane.two_middle.two_middile_manager",
+        "documentation": {}
+    },
+    {
+        "label": "TwoMidMethodManager",
+        "importPath": "detect_lane.two_middle.two_middile_manager",
+        "description": "detect_lane.two_middle.two_middile_manager",
+        "isExtraImport": true,
+        "detail": "detect_lane.two_middle.two_middile_manager",
+        "documentation": {}
+    },
+    {
+        "label": "ControlCar",
+        "importPath": "controls.control_car",
+        "description": "controls.control_car",
+        "isExtraImport": true,
+        "detail": "controls.control_car",
+        "documentation": {}
+    },
+    {
+        "label": "ControlCar",
+        "importPath": "controls.control_car",
+        "description": "controls.control_car",
+        "isExtraImport": true,
+        "detail": "controls.control_car",
+        "documentation": {}
+    },
+    {
+        "label": "ControlCar",
+        "importPath": "controls.control_car",
+        "description": "controls.control_car",
+        "isExtraImport": true,
+        "detail": "controls.control_car",
+        "documentation": {}
+    },
+    {
+        "label": "YOLOThread",
+        "importPath": "sign_detect.yolo.yolo4_thread",
+        "description": "sign_detect.yolo.yolo4_thread",
+        "isExtraImport": true,
+        "detail": "sign_detect.yolo.yolo4_thread",
+        "documentation": {}
+    },
+    {
+        "label": "lane_detect",
+        "importPath": "test_no_yolo",
+        "description": "test_no_yolo",
+        "isExtraImport": true,
+        "detail": "test_no_yolo",
+        "documentation": {}
+    },
+    {
+        "label": "config.speed_config",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "config.speed_config",
+        "description": "config.speed_config",
+        "detail": "config.speed_config",
+        "documentation": {}
+    },
+    {
+        "label": "CameraGet",
+        "kind": 6,
+        "importPath": "camera.camera",
+        "description": "camera.camera",
+        "peekOfCode": "class CameraGet:\n    def __init__(self, src = 0) :\n        self.stream = cv2.VideoCapture(src)\n        # self.stream.set(cv2.CV_CAP_PROP_FRAME_WIDTH, width)\n        # self.stream.set(cv2.CV_CAP_PROP_FRAME_HEIGHT, height)\n        (self.grabbed, self.frame) = self.stream.read()\n        self.started = False\n        self.read_lock = Lock()\n    def start(self) :\n        if self.started :",
+        "detail": "camera.camera",
+        "documentation": {}
+    },
+    {
+        "label": "SPEED_UP_SPEED_VAL",
+        "kind": 5,
+        "importPath": "config.speed_config",
+        "description": "config.speed_config",
+        "peekOfCode": "SPEED_UP_SPEED_VAL = 1608\nSLOW_DOWN_SPEED_VAL = 1598\nNORMAL_SPEED_VAL = 1602",
+        "detail": "config.speed_config",
+        "documentation": {}
+    },
+    {
+        "label": "SLOW_DOWN_SPEED_VAL",
+        "kind": 5,
+        "importPath": "config.speed_config",
+        "description": "config.speed_config",
+        "peekOfCode": "SLOW_DOWN_SPEED_VAL = 1598\nNORMAL_SPEED_VAL = 1602",
+        "detail": "config.speed_config",
+        "documentation": {}
+    },
+    {
+        "label": "NORMAL_SPEED_VAL",
+        "kind": 5,
+        "importPath": "config.speed_config",
+        "description": "config.speed_config",
+        "peekOfCode": "NORMAL_SPEED_VAL = 1602",
+        "detail": "config.speed_config",
+        "documentation": {}
+    },
+    {
+        "label": "CAMERA_INDEX",
+        "kind": 5,
+        "importPath": "config.system_config",
+        "description": "config.system_config",
+        "peekOfCode": "CAMERA_INDEX = 0",
+        "detail": "config.system_config",
+        "documentation": {}
+    },
+    {
+        "label": "CarStateDTO",
+        "kind": 6,
+        "importPath": "controls.car_state_dto",
+        "description": "controls.car_state_dto",
+        "peekOfCode": "class CarStateDTO:\n    def __init__(self,motor_value=0,servo_value=0):\n        self.motor_value = motor_value\n        self.servo_value = servo_value\n    def set_motor_value(self,motor_value):\n        self.motor_value = motor_value\n    def set_servo_value(self,servo_value):\n        self.servo_value = servo_value\n    def get_motor_value(self,):\n        return self.motor_value",
+        "detail": "controls.car_state_dto",
+        "documentation": {}
+    },
+    {
+        "label": "ControlCar",
+        "kind": 6,
+        "importPath": "controls.control_car",
+        "description": "controls.control_car",
+        "peekOfCode": "class ControlCar:\n    def __init__(self,speed):\n        self.pi = pigpio.pi()\n        self.car_state = CarStateDTO(motor_value=speed,servo_value=0)\n        # OFF \n        self.__set_servo_pulsewidth(SERVO, 0)    # off\n        self.__set_servo_pulsewidth(MOTOR, 0)  \n    def __set_servo_pulsewidth(self,gpio_port,value):\n        if gpio_port==MOTOR:\n            print(f\"GPIO: {gpio_port} - {value}\") ",
+        "detail": "controls.control_car",
+        "documentation": {}
+    },
+    {
+        "label": "MOTOR",
+        "kind": 5,
+        "importPath": "controls.control_car",
+        "description": "controls.control_car",
+        "peekOfCode": "MOTOR = 13\nSERVO = 12\nclass ControlCar:\n    def __init__(self,speed):\n        self.pi = pigpio.pi()\n        self.car_state = CarStateDTO(motor_value=speed,servo_value=0)\n        # OFF \n        self.__set_servo_pulsewidth(SERVO, 0)    # off\n        self.__set_servo_pulsewidth(MOTOR, 0)  \n    def __set_servo_pulsewidth(self,gpio_port,value):",
+        "detail": "controls.control_car",
+        "documentation": {}
+    },
+    {
+        "label": "SERVO",
+        "kind": 5,
+        "importPath": "controls.control_car",
+        "description": "controls.control_car",
+        "peekOfCode": "SERVO = 12\nclass ControlCar:\n    def __init__(self,speed):\n        self.pi = pigpio.pi()\n        self.car_state = CarStateDTO(motor_value=speed,servo_value=0)\n        # OFF \n        self.__set_servo_pulsewidth(SERVO, 0)    # off\n        self.__set_servo_pulsewidth(MOTOR, 0)  \n    def __set_servo_pulsewidth(self,gpio_port,value):\n        if gpio_port==MOTOR:",
+        "detail": "controls.control_car",
+        "documentation": {}
+    },
+    {
+        "label": "grayscale",
+        "kind": 2,
+        "importPath": "detect_lane.image_process.image_process",
+        "description": "detect_lane.image_process.image_process",
+        "peekOfCode": "def grayscale(img):\n    return cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)\ndef canny(img, low_threshold, high_threshold):\n    return cv2.Canny(img, low_threshold, high_threshold)\ndef gaussian_blur(img, kernel_size):\n    return cv2.GaussianBlur(img, (kernel_size, kernel_size), 0)",
+        "detail": "detect_lane.image_process.image_process",
+        "documentation": {}
+    },
+    {
+        "label": "canny",
+        "kind": 2,
+        "importPath": "detect_lane.image_process.image_process",
+        "description": "detect_lane.image_process.image_process",
+        "peekOfCode": "def canny(img, low_threshold, high_threshold):\n    return cv2.Canny(img, low_threshold, high_threshold)\ndef gaussian_blur(img, kernel_size):\n    return cv2.GaussianBlur(img, (kernel_size, kernel_size), 0)",
+        "detail": "detect_lane.image_process.image_process",
+        "documentation": {}
+    },
+    {
+        "label": "gaussian_blur",
+        "kind": 2,
+        "importPath": "detect_lane.image_process.image_process",
+        "description": "detect_lane.image_process.image_process",
+        "peekOfCode": "def gaussian_blur(img, kernel_size):\n    return cv2.GaussianBlur(img, (kernel_size, kernel_size), 0)",
+        "detail": "detect_lane.image_process.image_process",
+        "documentation": {}
+    },
+    {
+        "label": "HEIGHT_CENTER_POINT",
+        "kind": 5,
+        "importPath": "detect_lane.one_middle.config",
+        "description": "detect_lane.one_middle.config",
+        "peekOfCode": "HEIGHT_CENTER_POINT = 350 # CHOOSE\nWIDTH_CENTER_POINT =320 # W_640/2\nCENTER_THRESHOLD = 50",
+        "detail": "detect_lane.one_middle.config",
+        "documentation": {}
+    },
+    {
+        "label": "CENTER_THRESHOLD",
+        "kind": 5,
+        "importPath": "detect_lane.one_middle.config",
+        "description": "detect_lane.one_middle.config",
+        "peekOfCode": "CENTER_THRESHOLD = 50",
+        "detail": "detect_lane.one_middle.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_point",
+        "kind": 2,
+        "importPath": "detect_lane.one_middle.one_middle",
+        "description": "detect_lane.one_middle.one_middle",
+        "peekOfCode": "def get_point(img):\n    L = cfg.WIDTH_CENTER_POINT\n    while True:\n        if img[cfg.HEIGHT_CENTER_POINT,L] > 250:\n            break\n        if L <= 5:\n            break\n        L = L - 1\n    R = cfg.WIDTH_CENTER_POINT\n    while True:",
+        "detail": "detect_lane.one_middle.one_middle",
+        "documentation": {}
+    },
+    {
+        "label": "process",
+        "kind": 2,
+        "importPath": "detect_lane.one_middle.one_middle",
+        "description": "detect_lane.one_middle.one_middle",
+        "peekOfCode": "def process(image):\n    gray_img = grayscale(image)\n    h, w  = gray_img.shape\n    #BLUR\n    kernel_size = 5\n    blurred_gray = cv2.GaussianBlur(gray_img,(kernel_size, kernel_size),0)\n    # CANNY\n    low_threshold = 20\n    high_threshold = 255\n    edges_image = cv2.Canny(blurred_gray, low_threshold, high_threshold)",
+        "detail": "detect_lane.one_middle.one_middle",
+        "documentation": {}
+    },
+    {
+        "label": "TwoMidMethodManager",
+        "kind": 6,
+        "importPath": "detect_lane.two_middle.two_middile_manager",
+        "description": "detect_lane.two_middle.two_middile_manager",
+        "peekOfCode": "class TwoMidMethodManager:\n    def __init__(self,frame):\n        self.started = False\n        self.frame = frame\n        self.l1 = None\n        self.final_image = None\n        self.center = None\n        self.servo_val = None\n        self.read_lock = Lock() \n    def start(self):",
+        "detail": "detect_lane.two_middle.two_middile_manager",
+        "documentation": {}
+    },
+    {
+        "label": "detect_lane",
+        "kind": 5,
+        "importPath": "detect_lane.two_middle.two_middile_manager",
+        "description": "detect_lane.two_middle.two_middile_manager",
+        "peekOfCode": "detect_lane = Method2Middle()\nclass TwoMidMethodManager:\n    def __init__(self,frame):\n        self.started = False\n        self.frame = frame\n        self.l1 = None\n        self.final_image = None\n        self.center = None\n        self.servo_val = None\n        self.read_lock = Lock() ",
+        "detail": "detect_lane.two_middle.two_middile_manager",
+        "documentation": {}
+    },
+    {
+        "label": "Method2Middle",
+        "kind": 6,
+        "importPath": "detect_lane.two_middle.two_middle",
+        "description": "detect_lane.two_middle.two_middle",
+        "peekOfCode": "class Method2Middle:\n    def __init__(self,):\n        pass\n    def preprocess(self,img):\n        gray_img = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)\n        h, w  = gray_img.shape\n        #BLUR\n        kernel_size = 3\n        blurred_gray = cv2.GaussianBlur(gray_img,(kernel_size, kernel_size),0)\n        #remove thin line",
+        "detail": "detect_lane.two_middle.two_middle",
+        "documentation": {}
+    },
+    {
+        "label": "LOW_H",
+        "kind": 5,
+        "importPath": "detect_lane.two_middle.two_middle",
+        "description": "detect_lane.two_middle.two_middle",
+        "peekOfCode": "LOW_H = 470\nHIGH_H = 400\nMID_W = 320 \ncoff = math.atan(50/(100))\nclass Method2Middle:\n    def __init__(self,):\n        pass\n    def preprocess(self,img):\n        gray_img = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)\n        h, w  = gray_img.shape",
+        "detail": "detect_lane.two_middle.two_middle",
+        "documentation": {}
+    },
+    {
+        "label": "HIGH_H",
+        "kind": 5,
+        "importPath": "detect_lane.two_middle.two_middle",
+        "description": "detect_lane.two_middle.two_middle",
+        "peekOfCode": "HIGH_H = 400\nMID_W = 320 \ncoff = math.atan(50/(100))\nclass Method2Middle:\n    def __init__(self,):\n        pass\n    def preprocess(self,img):\n        gray_img = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)\n        h, w  = gray_img.shape\n        #BLUR",
+        "detail": "detect_lane.two_middle.two_middle",
+        "documentation": {}
+    },
+    {
+        "label": "MID_W",
+        "kind": 5,
+        "importPath": "detect_lane.two_middle.two_middle",
+        "description": "detect_lane.two_middle.two_middle",
+        "peekOfCode": "MID_W = 320 \ncoff = math.atan(50/(100))\nclass Method2Middle:\n    def __init__(self,):\n        pass\n    def preprocess(self,img):\n        gray_img = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)\n        h, w  = gray_img.shape\n        #BLUR\n        kernel_size = 3",
+        "detail": "detect_lane.two_middle.two_middle",
+        "documentation": {}
+    },
+    {
+        "label": "coff",
+        "kind": 5,
+        "importPath": "detect_lane.two_middle.two_middle",
+        "description": "detect_lane.two_middle.two_middle",
+        "peekOfCode": "coff = math.atan(50/(100))\nclass Method2Middle:\n    def __init__(self,):\n        pass\n    def preprocess(self,img):\n        gray_img = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)\n        h, w  = gray_img.shape\n        #BLUR\n        kernel_size = 3\n        blurred_gray = cv2.GaussianBlur(gray_img,(kernel_size, kernel_size),0)",
+        "detail": "detect_lane.two_middle.two_middle",
+        "documentation": {}
+    },
+    {
+        "label": "crop_region_pos",
+        "kind": 2,
+        "importPath": "detect_stop_line.detect_redline",
+        "description": "detect_stop_line.detect_redline",
+        "peekOfCode": "def crop_region_pos():\n    x_c = int(CENTER_POINT)\n    y_c = int(HIGH_H)\n    x1 = x_c-200 if (x_c-200 > 0) else 0\n    y1 = y_c-100\n    x2 = x_c+200 if (x_c+200 < 639) else 638\n    y2 = y_c-50\n    return (x1,y1),(x2,y2)\ndef getCropImage(image,center_point):\n    p1,p2 = crop_region_pos()",
+        "detail": "detect_stop_line.detect_redline",
+        "documentation": {}
+    },
+    {
+        "label": "getCropImage",
+        "kind": 2,
+        "importPath": "detect_stop_line.detect_redline",
+        "description": "detect_stop_line.detect_redline",
+        "peekOfCode": "def getCropImage(image,center_point):\n    p1,p2 = crop_region_pos()\n    x1,y1 = p1\n    x2,y2 = p2\n    crop_img = frame[y1:y2,x1:x2]\n    return crop_img\ndef detect_redline_in_front(img_crop):\n    lower = np.array([30,30 , 80],dtype=np.uint8)\n    upper = np.array([80, 80, 150],dtype=np.uint8)\n    detect_image = cv2.inRange(img_crop,lower,upper)",
+        "detail": "detect_stop_line.detect_redline",
+        "documentation": {}
+    },
+    {
+        "label": "detect_redline_in_front",
+        "kind": 2,
+        "importPath": "detect_stop_line.detect_redline",
+        "description": "detect_stop_line.detect_redline",
+        "peekOfCode": "def detect_redline_in_front(img_crop):\n    lower = np.array([30,30 , 80],dtype=np.uint8)\n    upper = np.array([80, 80, 150],dtype=np.uint8)\n    detect_image = cv2.inRange(img_crop,lower,upper)\n    return detect_image\ndef get_number_red_pixel(detect_image):\n    num_mask = detect_image.shape[0]*detect_image.shape[1]\n    value_red = np.count_nonzero(detect_image)\n    return value_red\ndef is_redline_in_front(image):",
+        "detail": "detect_stop_line.detect_redline",
+        "documentation": {}
+    },
+    {
+        "label": "get_number_red_pixel",
+        "kind": 2,
+        "importPath": "detect_stop_line.detect_redline",
+        "description": "detect_stop_line.detect_redline",
+        "peekOfCode": "def get_number_red_pixel(detect_image):\n    num_mask = detect_image.shape[0]*detect_image.shape[1]\n    value_red = np.count_nonzero(detect_image)\n    return value_red\ndef is_redline_in_front(image):\n    cropImage = getCropImage(image)\n    detect_image = detect_redline_in_front(cropImage)\n    number_red_pixel = get_number_red_pixel(detect_image)\n    if number_red_pixel > THRESHOLD_RED_PIXEL:\n        return True",
+        "detail": "detect_stop_line.detect_redline",
+        "documentation": {}
+    },
+    {
+        "label": "is_redline_in_front",
+        "kind": 2,
+        "importPath": "detect_stop_line.detect_redline",
+        "description": "detect_stop_line.detect_redline",
+        "peekOfCode": "def is_redline_in_front(image):\n    cropImage = getCropImage(image)\n    detect_image = detect_redline_in_front(cropImage)\n    number_red_pixel = get_number_red_pixel(detect_image)\n    if number_red_pixel > THRESHOLD_RED_PIXEL:\n        return True\n    else:\n        return False",
+        "detail": "detect_stop_line.detect_redline",
+        "documentation": {}
+    },
+    {
+        "label": "CENTER_POINT",
+        "kind": 5,
+        "importPath": "detect_stop_line.detect_redline",
+        "description": "detect_stop_line.detect_redline",
+        "peekOfCode": "CENTER_POINT = 320\nH_2 = 400\nTHRESHOLD_RED_PIXEL = 500\ndef crop_region_pos():\n    x_c = int(CENTER_POINT)\n    y_c = int(HIGH_H)\n    x1 = x_c-200 if (x_c-200 > 0) else 0\n    y1 = y_c-100\n    x2 = x_c+200 if (x_c+200 < 639) else 638\n    y2 = y_c-50",
+        "detail": "detect_stop_line.detect_redline",
+        "documentation": {}
+    },
+    {
+        "label": "H_2",
+        "kind": 5,
+        "importPath": "detect_stop_line.detect_redline",
+        "description": "detect_stop_line.detect_redline",
+        "peekOfCode": "H_2 = 400\nTHRESHOLD_RED_PIXEL = 500\ndef crop_region_pos():\n    x_c = int(CENTER_POINT)\n    y_c = int(HIGH_H)\n    x1 = x_c-200 if (x_c-200 > 0) else 0\n    y1 = y_c-100\n    x2 = x_c+200 if (x_c+200 < 639) else 638\n    y2 = y_c-50\n    return (x1,y1),(x2,y2)",
+        "detail": "detect_stop_line.detect_redline",
+        "documentation": {}
+    },
+    {
+        "label": "THRESHOLD_RED_PIXEL",
+        "kind": 5,
+        "importPath": "detect_stop_line.detect_redline",
+        "description": "detect_stop_line.detect_redline",
+        "peekOfCode": "THRESHOLD_RED_PIXEL = 500\ndef crop_region_pos():\n    x_c = int(CENTER_POINT)\n    y_c = int(HIGH_H)\n    x1 = x_c-200 if (x_c-200 > 0) else 0\n    y1 = y_c-100\n    x2 = x_c+200 if (x_c+200 < 639) else 638\n    y2 = y_c-50\n    return (x1,y1),(x2,y2)\ndef getCropImage(image,center_point):",
+        "detail": "detect_stop_line.detect_redline",
+        "documentation": {}
+    },
+    {
+        "label": "__C.TEST.DECTECTED_IMAGE_PATH",
+        "kind": 5,
+        "importPath": "sign_detect.yolo.config",
+        "description": "sign_detect.yolo.config",
+        "peekOfCode": "__C.TEST.DECTECTED_IMAGE_PATH = \"./data/detection/\"\n__C.TEST.SCORE_THRESHOLD      = 0.25\n__C.TEST.IOU_THRESHOLD        = 0.5",
+        "detail": "sign_detect.yolo.config",
+        "documentation": {}
+    },
+    {
+        "label": "YoloDetect",
+        "kind": 6,
+        "importPath": "sign_detect.yolo.detect",
+        "description": "sign_detect.yolo.detect",
+        "peekOfCode": "class YoloDetect:\n    def __init__(self,model_path = './sign_detect/yolo/tflite/yolov4-tiny-416.tflite',score_threshole=0.7):\n        self.config = ConfigProto()\n        self.config.gpu_options.allow_growth = True\n        self.session = InteractiveSession(config=self.config)\n        # STRIDES, ANCHORS, NUM_CLASS, XYSCALE = load_config() \n        self.input_size = 416\n        self.score_threshole = score_threshole\n        # load model\n        # model_path = 'tflite/yolov4-tiny-416.tflite'",
+        "detail": "sign_detect.yolo.detect",
+        "documentation": {}
+    },
+    {
+        "label": "framework",
+        "kind": 5,
+        "importPath": "sign_detect.yolo.detect",
+        "description": "sign_detect.yolo.detect",
+        "peekOfCode": "framework = 'tflite'\niou_threshole = 0.1\nCLASS = ['SLOWDOWN','SPEED UP','STOP']\nclass YoloDetect:\n    def __init__(self,model_path = './sign_detect/yolo/tflite/yolov4-tiny-416.tflite',score_threshole=0.7):\n        self.config = ConfigProto()\n        self.config.gpu_options.allow_growth = True\n        self.session = InteractiveSession(config=self.config)\n        # STRIDES, ANCHORS, NUM_CLASS, XYSCALE = load_config() \n        self.input_size = 416",
+        "detail": "sign_detect.yolo.detect",
+        "documentation": {}
+    },
+    {
+        "label": "iou_threshole",
+        "kind": 5,
+        "importPath": "sign_detect.yolo.detect",
+        "description": "sign_detect.yolo.detect",
+        "peekOfCode": "iou_threshole = 0.1\nCLASS = ['SLOWDOWN','SPEED UP','STOP']\nclass YoloDetect:\n    def __init__(self,model_path = './sign_detect/yolo/tflite/yolov4-tiny-416.tflite',score_threshole=0.7):\n        self.config = ConfigProto()\n        self.config.gpu_options.allow_growth = True\n        self.session = InteractiveSession(config=self.config)\n        # STRIDES, ANCHORS, NUM_CLASS, XYSCALE = load_config() \n        self.input_size = 416\n        self.score_threshole = score_threshole",
+        "detail": "sign_detect.yolo.detect",
+        "documentation": {}
+    },
+    {
+        "label": "CLASS",
+        "kind": 5,
+        "importPath": "sign_detect.yolo.detect",
+        "description": "sign_detect.yolo.detect",
+        "peekOfCode": "CLASS = ['SLOWDOWN','SPEED UP','STOP']\nclass YoloDetect:\n    def __init__(self,model_path = './sign_detect/yolo/tflite/yolov4-tiny-416.tflite',score_threshole=0.7):\n        self.config = ConfigProto()\n        self.config.gpu_options.allow_growth = True\n        self.session = InteractiveSession(config=self.config)\n        # STRIDES, ANCHORS, NUM_CLASS, XYSCALE = load_config() \n        self.input_size = 416\n        self.score_threshole = score_threshole\n        # load model",
+        "detail": "sign_detect.yolo.detect",
+        "documentation": {}
+    },
+    {
+        "label": "load_config",
+        "kind": 2,
+        "importPath": "sign_detect.yolo.main",
+        "description": "sign_detect.yolo.main",
+        "peekOfCode": "def load_config():\n    STRIDES = np.array([16, 32])\n    anchors = np.array([23,27, 37,58, 81,82, 81,82, 135,169, 344,319])\n    ANCHORS = anchors.reshape(2, 3, 2)\n    XYSCALE = [1.05, 1.05]\n    NUM_CLASS = 3\n    return STRIDES, ANCHORS, NUM_CLASS, XYSCALE\ndef filter_boxes(box_xywh, scores, score_threshold=0.4, input_shape = tf.constant([416,416])):\n    scores_max = tf.math.reduce_max(scores, axis=-1)\n    mask = scores_max >= score_threshold",
+        "detail": "sign_detect.yolo.main",
+        "documentation": {}
+    },
+    {
+        "label": "filter_boxes",
+        "kind": 2,
+        "importPath": "sign_detect.yolo.main",
+        "description": "sign_detect.yolo.main",
+        "peekOfCode": "def filter_boxes(box_xywh, scores, score_threshold=0.4, input_shape = tf.constant([416,416])):\n    scores_max = tf.math.reduce_max(scores, axis=-1)\n    mask = scores_max >= score_threshold\n    class_boxes = tf.boolean_mask(box_xywh, mask)\n    pred_conf = tf.boolean_mask(scores, mask)\n    class_boxes = tf.reshape(class_boxes, [tf.shape(scores)[0], -1, tf.shape(class_boxes)[-1]])\n    pred_conf = tf.reshape(pred_conf, [tf.shape(scores)[0], -1, tf.shape(pred_conf)[-1]])\n    box_xy, box_wh = tf.split(class_boxes, (2, 2), axis=-1)\n    input_shape = tf.cast(input_shape, dtype=tf.float32)\n    box_yx = box_xy[..., ::-1]",
+        "detail": "sign_detect.yolo.main",
+        "documentation": {}
+    },
+    {
+        "label": "draw_bbox",
+        "kind": 2,
+        "importPath": "sign_detect.yolo.main",
+        "description": "sign_detect.yolo.main",
+        "peekOfCode": "def draw_bbox(image,pred_bbox):\n    image_h, image_w, _ = image.shape\n    out_boxes, out_scores, out_classes, num_boxes = pred_bbox\n    for i in range(num_boxes[0]):\n        # if int(out_classes[0][i]) < 0 or int(out_classes[0][i]) > 3: continue\n        coor = out_boxes[0][i]\n        coor[0] = int(coor[0] * image_h)\n        coor[2] = int(coor[2] * image_h)\n        coor[1] = int(coor[1] * image_w)\n        coor[3] = int(coor[3] * image_w)",
+        "detail": "sign_detect.yolo.main",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_image",
+        "kind": 2,
+        "importPath": "sign_detect.yolo.main",
+        "description": "sign_detect.yolo.main",
+        "peekOfCode": "def preprocess_image(original_image,input_size):\n    original_image = cv2.cvtColor(original_image, cv2.COLOR_BGR2RGB)\n    image_data = cv2.resize(original_image, (input_size, input_size))\n    image_data = image_data / 255.\n    images_data = []\n    images_data.append(image_data)\n    images_data = np.asarray(images_data).astype(np.float32)\n    return images_data\ndef doInference(interpreter,images_data,input_details,output_details,input_size):\n    interpreter.set_tensor(input_details[0]['index'], images_data)",
+        "detail": "sign_detect.yolo.main",
+        "documentation": {}
+    },
+    {
+        "label": "doInference",
+        "kind": 2,
+        "importPath": "sign_detect.yolo.main",
+        "description": "sign_detect.yolo.main",
+        "peekOfCode": "def doInference(interpreter,images_data,input_details,output_details,input_size):\n    interpreter.set_tensor(input_details[0]['index'], images_data)\n    interpreter.invoke()\n    pred = [interpreter.get_tensor(output_details[i]['index']) for i in range(len(output_details))]\n    boxes, pred_conf = filter_boxes(pred[0], pred[1], score_threshold=0.25, input_shape=tf.constant([input_size, input_size]))\n    boxes, scores, classes, valid_detections = tf.image.combined_non_max_suppression(\n        boxes=tf.reshape(boxes, (tf.shape(boxes)[0], -1, 1, 4)),\n        scores=tf.reshape(\n            pred_conf, (tf.shape(pred_conf)[0], -1, tf.shape(pred_conf)[-1])),\n        max_output_size_per_class=50,",
+        "detail": "sign_detect.yolo.main",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "sign_detect.yolo.main",
+        "description": "sign_detect.yolo.main",
+        "peekOfCode": "def main():\n    # Config model\n    config = ConfigProto()\n    config.gpu_options.allow_growth = True\n    session = InteractiveSession(config=config)\n    STRIDES, ANCHORS, NUM_CLASS, XYSCALE = load_config()\n    input_size = 416\n    # load model\n    # model_path = 'tflite/yolov4-tiny-416.tflite'\n    model_path = 'tflite/yolov4-tiny-tflite-416-fp16.tflite'",
+        "detail": "sign_detect.yolo.main",
+        "documentation": {}
+    },
+    {
+        "label": "framework",
+        "kind": 5,
+        "importPath": "sign_detect.yolo.main",
+        "description": "sign_detect.yolo.main",
+        "peekOfCode": "framework = 'tflite'\nscore_threshole = 0.8\niou_threshole = 0.15\nCLASS = ['SLOWDOWN','SPEED UP','STOP']\ndef load_config():\n    STRIDES = np.array([16, 32])\n    anchors = np.array([23,27, 37,58, 81,82, 81,82, 135,169, 344,319])\n    ANCHORS = anchors.reshape(2, 3, 2)\n    XYSCALE = [1.05, 1.05]\n    NUM_CLASS = 3",
+        "detail": "sign_detect.yolo.main",
+        "documentation": {}
+    },
+    {
+        "label": "score_threshole",
+        "kind": 5,
+        "importPath": "sign_detect.yolo.main",
+        "description": "sign_detect.yolo.main",
+        "peekOfCode": "score_threshole = 0.8\niou_threshole = 0.15\nCLASS = ['SLOWDOWN','SPEED UP','STOP']\ndef load_config():\n    STRIDES = np.array([16, 32])\n    anchors = np.array([23,27, 37,58, 81,82, 81,82, 135,169, 344,319])\n    ANCHORS = anchors.reshape(2, 3, 2)\n    XYSCALE = [1.05, 1.05]\n    NUM_CLASS = 3\n    return STRIDES, ANCHORS, NUM_CLASS, XYSCALE",
+        "detail": "sign_detect.yolo.main",
+        "documentation": {}
+    },
+    {
+        "label": "iou_threshole",
+        "kind": 5,
+        "importPath": "sign_detect.yolo.main",
+        "description": "sign_detect.yolo.main",
+        "peekOfCode": "iou_threshole = 0.15\nCLASS = ['SLOWDOWN','SPEED UP','STOP']\ndef load_config():\n    STRIDES = np.array([16, 32])\n    anchors = np.array([23,27, 37,58, 81,82, 81,82, 135,169, 344,319])\n    ANCHORS = anchors.reshape(2, 3, 2)\n    XYSCALE = [1.05, 1.05]\n    NUM_CLASS = 3\n    return STRIDES, ANCHORS, NUM_CLASS, XYSCALE\ndef filter_boxes(box_xywh, scores, score_threshold=0.4, input_shape = tf.constant([416,416])):",
+        "detail": "sign_detect.yolo.main",
+        "documentation": {}
+    },
+    {
+        "label": "CLASS",
+        "kind": 5,
+        "importPath": "sign_detect.yolo.main",
+        "description": "sign_detect.yolo.main",
+        "peekOfCode": "CLASS = ['SLOWDOWN','SPEED UP','STOP']\ndef load_config():\n    STRIDES = np.array([16, 32])\n    anchors = np.array([23,27, 37,58, 81,82, 81,82, 135,169, 344,319])\n    ANCHORS = anchors.reshape(2, 3, 2)\n    XYSCALE = [1.05, 1.05]\n    NUM_CLASS = 3\n    return STRIDES, ANCHORS, NUM_CLASS, XYSCALE\ndef filter_boxes(box_xywh, scores, score_threshold=0.4, input_shape = tf.constant([416,416])):\n    scores_max = tf.math.reduce_max(scores, axis=-1)",
+        "detail": "sign_detect.yolo.main",
+        "documentation": {}
+    },
+    {
+        "label": "YOLOThread",
+        "kind": 6,
+        "importPath": "sign_detect.yolo.yolo4_thread",
+        "description": "sign_detect.yolo.yolo4_thread",
+        "peekOfCode": "class YOLOThread:\n    def __init__(self, frame) :\n        self.started = False\n        self.frame = frame\n        self.sign_name = None\n        self.final_image = None\n        self.read_lock = Lock() \n    def start(self) :\n        if self.started :\n            logging.info(\"already started!!\")",
+        "detail": "sign_detect.yolo.yolo4_thread",
+        "documentation": {}
+    },
+    {
+        "label": "detect_sign",
+        "kind": 5,
+        "importPath": "sign_detect.yolo.yolo4_thread",
+        "description": "sign_detect.yolo.yolo4_thread",
+        "peekOfCode": "detect_sign = YoloDetect()\nclass YOLOThread:\n    def __init__(self, frame) :\n        self.started = False\n        self.frame = frame\n        self.sign_name = None\n        self.final_image = None\n        self.read_lock = Lock() \n    def start(self) :\n        if self.started :",
+        "detail": "sign_detect.yolo.yolo4_thread",
+        "documentation": {}
+    },
+    {
+        "label": "draw_line",
+        "kind": 2,
+        "importPath": "supports.draw",
+        "description": "supports.draw",
+        "peekOfCode": "def draw_line(img,p1,p2,COLOR):\n    p1 = (int(p1[0]),int(p1[1]))\n    p2 = (int(p2[0]),int(p2[1]))\n    final_image = cv2.line(img,p1,p2,COLOR,6)\n    return final_image\ndef draw_dot(img,p):\n    p = (int(p[0]),int(p[1]))\n    final_image = cv2.circle(img,p,5,(255,0,0),-1)    \n    return final_image\ndef put_text(img,content,POSITION,COLOR):",
+        "detail": "supports.draw",
+        "documentation": {}
+    },
+    {
+        "label": "draw_dot",
+        "kind": 2,
+        "importPath": "supports.draw",
+        "description": "supports.draw",
+        "peekOfCode": "def draw_dot(img,p):\n    p = (int(p[0]),int(p[1]))\n    final_image = cv2.circle(img,p,5,(255,0,0),-1)    \n    return final_image\ndef put_text(img,content,POSITION,COLOR):\n    #TODO\n    font = cv2.FONT_HERSHEY_SIMPLEX \n    org = POSITION\n    fontScale = 1\n    color = COLOR",
+        "detail": "supports.draw",
+        "documentation": {}
+    },
+    {
+        "label": "put_text",
+        "kind": 2,
+        "importPath": "supports.draw",
+        "description": "supports.draw",
+        "peekOfCode": "def put_text(img,content,POSITION,COLOR):\n    #TODO\n    font = cv2.FONT_HERSHEY_SIMPLEX \n    org = POSITION\n    fontScale = 1\n    color = COLOR\n    thickness = 2\n    image_final = cv2.putText(image_final, content, org, font, fontScale,  \n                     color, thickness, cv2.LINE_AA, False) \n    return image_final",
+        "detail": "supports.draw",
+        "documentation": {}
+    },
+    {
+        "label": "COLOR_RED",
+        "kind": 5,
+        "importPath": "supports.draw",
+        "description": "supports.draw",
+        "peekOfCode": "COLOR_RED = (0,0,255)\nCOLOR_GREEN = (0,255,0)\nCOLOR_BLUE = (255,0,0)\n#POSITION\nPOS_TOP_LEFT = (0, 30)\nPOS_TOP_RIGHT = (600, 30)\nPOS_BOTTOM_LEFT = (0,460)\nPOS_BOTTOM_RIGHT = (0, 30)\ndef draw_line(img,p1,p2,COLOR):\n    p1 = (int(p1[0]),int(p1[1]))",
+        "detail": "supports.draw",
+        "documentation": {}
+    },
+    {
+        "label": "COLOR_GREEN",
+        "kind": 5,
+        "importPath": "supports.draw",
+        "description": "supports.draw",
+        "peekOfCode": "COLOR_GREEN = (0,255,0)\nCOLOR_BLUE = (255,0,0)\n#POSITION\nPOS_TOP_LEFT = (0, 30)\nPOS_TOP_RIGHT = (600, 30)\nPOS_BOTTOM_LEFT = (0,460)\nPOS_BOTTOM_RIGHT = (0, 30)\ndef draw_line(img,p1,p2,COLOR):\n    p1 = (int(p1[0]),int(p1[1]))\n    p2 = (int(p2[0]),int(p2[1]))",
+        "detail": "supports.draw",
+        "documentation": {}
+    },
+    {
+        "label": "COLOR_BLUE",
+        "kind": 5,
+        "importPath": "supports.draw",
+        "description": "supports.draw",
+        "peekOfCode": "COLOR_BLUE = (255,0,0)\n#POSITION\nPOS_TOP_LEFT = (0, 30)\nPOS_TOP_RIGHT = (600, 30)\nPOS_BOTTOM_LEFT = (0,460)\nPOS_BOTTOM_RIGHT = (0, 30)\ndef draw_line(img,p1,p2,COLOR):\n    p1 = (int(p1[0]),int(p1[1]))\n    p2 = (int(p2[0]),int(p2[1]))\n    final_image = cv2.line(img,p1,p2,COLOR,6)",
+        "detail": "supports.draw",
+        "documentation": {}
+    },
+    {
+        "label": "POS_TOP_LEFT",
+        "kind": 5,
+        "importPath": "supports.draw",
+        "description": "supports.draw",
+        "peekOfCode": "POS_TOP_LEFT = (0, 30)\nPOS_TOP_RIGHT = (600, 30)\nPOS_BOTTOM_LEFT = (0,460)\nPOS_BOTTOM_RIGHT = (0, 30)\ndef draw_line(img,p1,p2,COLOR):\n    p1 = (int(p1[0]),int(p1[1]))\n    p2 = (int(p2[0]),int(p2[1]))\n    final_image = cv2.line(img,p1,p2,COLOR,6)\n    return final_image\ndef draw_dot(img,p):",
+        "detail": "supports.draw",
+        "documentation": {}
+    },
+    {
+        "label": "POS_TOP_RIGHT",
+        "kind": 5,
+        "importPath": "supports.draw",
+        "description": "supports.draw",
+        "peekOfCode": "POS_TOP_RIGHT = (600, 30)\nPOS_BOTTOM_LEFT = (0,460)\nPOS_BOTTOM_RIGHT = (0, 30)\ndef draw_line(img,p1,p2,COLOR):\n    p1 = (int(p1[0]),int(p1[1]))\n    p2 = (int(p2[0]),int(p2[1]))\n    final_image = cv2.line(img,p1,p2,COLOR,6)\n    return final_image\ndef draw_dot(img,p):\n    p = (int(p[0]),int(p[1]))",
+        "detail": "supports.draw",
+        "documentation": {}
+    },
+    {
+        "label": "POS_BOTTOM_LEFT",
+        "kind": 5,
+        "importPath": "supports.draw",
+        "description": "supports.draw",
+        "peekOfCode": "POS_BOTTOM_LEFT = (0,460)\nPOS_BOTTOM_RIGHT = (0, 30)\ndef draw_line(img,p1,p2,COLOR):\n    p1 = (int(p1[0]),int(p1[1]))\n    p2 = (int(p2[0]),int(p2[1]))\n    final_image = cv2.line(img,p1,p2,COLOR,6)\n    return final_image\ndef draw_dot(img,p):\n    p = (int(p[0]),int(p[1]))\n    final_image = cv2.circle(img,p,5,(255,0,0),-1)    ",
+        "detail": "supports.draw",
+        "documentation": {}
+    },
+    {
+        "label": "POS_BOTTOM_RIGHT",
+        "kind": 5,
+        "importPath": "supports.draw",
+        "description": "supports.draw",
+        "peekOfCode": "POS_BOTTOM_RIGHT = (0, 30)\ndef draw_line(img,p1,p2,COLOR):\n    p1 = (int(p1[0]),int(p1[1]))\n    p2 = (int(p2[0]),int(p2[1]))\n    final_image = cv2.line(img,p1,p2,COLOR,6)\n    return final_image\ndef draw_dot(img,p):\n    p = (int(p[0]),int(p[1]))\n    final_image = cv2.circle(img,p,5,(255,0,0),-1)    \n    return final_image",
+        "detail": "supports.draw",
+        "documentation": {}
+    },
+    {
+        "label": "parser",
+        "kind": 5,
+        "importPath": "test.record_video",
+        "description": "test.record_video",
+        "peekOfCode": "parser = argparse.ArgumentParser()\nparser.add_argument(\"--name\", \"-n\", help=\"name\")\nargs = parser.parse_args()\nif args.name:\n    print(args.name)\nfourcc = cv2.VideoWriter_fourcc(*'XVID')\n# out = cv2.VideoWriter('output.avi',fourcc, 1.0, (640,480))\nout = cv2.VideoWriter(args.name,fourcc, 30.0,(640,480))\ncap = cv2.VideoCapture(0)\nrecord = False",
+        "detail": "test.record_video",
+        "documentation": {}
+    },
+    {
+        "label": "args",
+        "kind": 5,
+        "importPath": "test.record_video",
+        "description": "test.record_video",
+        "peekOfCode": "args = parser.parse_args()\nif args.name:\n    print(args.name)\nfourcc = cv2.VideoWriter_fourcc(*'XVID')\n# out = cv2.VideoWriter('output.avi',fourcc, 1.0, (640,480))\nout = cv2.VideoWriter(args.name,fourcc, 30.0,(640,480))\ncap = cv2.VideoCapture(0)\nrecord = False\nwhile(True):\n    ret, frame = cap.read()",
+        "detail": "test.record_video",
+        "documentation": {}
+    },
+    {
+        "label": "fourcc",
+        "kind": 5,
+        "importPath": "test.record_video",
+        "description": "test.record_video",
+        "peekOfCode": "fourcc = cv2.VideoWriter_fourcc(*'XVID')\n# out = cv2.VideoWriter('output.avi',fourcc, 1.0, (640,480))\nout = cv2.VideoWriter(args.name,fourcc, 30.0,(640,480))\ncap = cv2.VideoCapture(0)\nrecord = False\nwhile(True):\n    ret, frame = cap.read()\n    if record:\n        out.write(frame)\n    cv2.imshow('frame',frame)",
+        "detail": "test.record_video",
+        "documentation": {}
+    },
+    {
+        "label": "out",
+        "kind": 5,
+        "importPath": "test.record_video",
+        "description": "test.record_video",
+        "peekOfCode": "out = cv2.VideoWriter(args.name,fourcc, 30.0,(640,480))\ncap = cv2.VideoCapture(0)\nrecord = False\nwhile(True):\n    ret, frame = cap.read()\n    if record:\n        out.write(frame)\n    cv2.imshow('frame',frame)\n    key = cv2.waitKey(1)\n    if(key==ord('p')):",
+        "detail": "test.record_video",
+        "documentation": {}
+    },
+    {
+        "label": "cap",
+        "kind": 5,
+        "importPath": "test.record_video",
+        "description": "test.record_video",
+        "peekOfCode": "cap = cv2.VideoCapture(0)\nrecord = False\nwhile(True):\n    ret, frame = cap.read()\n    if record:\n        out.write(frame)\n    cv2.imshow('frame',frame)\n    key = cv2.waitKey(1)\n    if(key==ord('p')):\n        record = True",
+        "detail": "test.record_video",
+        "documentation": {}
+    },
+    {
+        "label": "record",
+        "kind": 5,
+        "importPath": "test.record_video",
+        "description": "test.record_video",
+        "peekOfCode": "record = False\nwhile(True):\n    ret, frame = cap.read()\n    if record:\n        out.write(frame)\n    cv2.imshow('frame',frame)\n    key = cv2.waitKey(1)\n    if(key==ord('p')):\n        record = True\n    if(key==ord('q')):",
+        "detail": "test.record_video",
+        "documentation": {}
+    },
+    {
+        "label": "pi",
+        "kind": 5,
+        "importPath": "test.stop",
+        "description": "test.stop",
+        "peekOfCode": "pi = pigpio.pi()\npi.set_servo_pulsewidth(12, 0)    # off\npi.set_servo_pulsewidth(13, 0)",
+        "detail": "test.stop",
+        "documentation": {}
+    },
+    {
+        "label": "pi",
+        "kind": 5,
+        "importPath": "test.test_gpio",
+        "description": "test.test_gpio",
+        "peekOfCode": "pi = pigpio.pi()\npi.set_servo_pulsewidth(12, 0)    # off\npi.set_servo_pulsewidth(13, 0)    # off\ntime.sleep(1)\npi.set_servo_pulsewidth(13, 1500)    # off\n#pi.set_servo_pulsewidth(12, 1540)    # off\n# pi.set_servo_pulsewidth(12, 1540) # center \n# pi.set_servo_pulsewidth(12, 1800) # left\n# pi.set_servo_pulsewidth(12, 1280) # right\nwhile(True):",
+        "detail": "test.test_gpio",
+        "documentation": {}
+    },
+    {
+        "label": "cam",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "cam = CameraGet(0).start() \ntime.sleep(1)\na = TwoMidMethodManager(cam.frame)\na.start()\ncontrol_car_obj = ControlCar(1602)\ncontrol_car_obj.prepair_run()\ncontrol_car_obj.car_state.set_motor_value(1602)\ncontrol_car_obj.control_speed()\nis_missing_lane = False\nwhile(True):",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "a = TwoMidMethodManager(cam.frame)\na.start()\ncontrol_car_obj = ControlCar(1602)\ncontrol_car_obj.prepair_run()\ncontrol_car_obj.car_state.set_motor_value(1602)\ncontrol_car_obj.control_speed()\nis_missing_lane = False\nwhile(True):\n    try:\n        key = cv2.waitKey(1)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "control_car_obj",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "control_car_obj = ControlCar(1602)\ncontrol_car_obj.prepair_run()\ncontrol_car_obj.car_state.set_motor_value(1602)\ncontrol_car_obj.control_speed()\nis_missing_lane = False\nwhile(True):\n    try:\n        key = cv2.waitKey(1)\n        if(key==ord('q')):\n            break",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "is_missing_lane",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "is_missing_lane = False\nwhile(True):\n    try:\n        key = cv2.waitKey(1)\n        if(key==ord('q')):\n            break\n        frame = cam.frame\n        a.frame = frame\n        final_image = a.final_image\n        l1 = a.l1",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "SPEED_UP_VAL",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "SPEED_UP_VAL = 1608\nSLOW_DOWN_VAL = 1598\nNORMAL_SPEED_VAL = 1602\ncontrol_car_obj = ControlCar(NORMAL_SPEED_VAL)\ncontrol_car_obj.prepair_run()\ntime.sleep(1)\ncam = CameraGet(0).start() \na = TwoMidMethodManager(cam.frame)\na.start()\ncontrol_car_obj.car_state.set_motor_value(NORMAL_SPEED_VAL)",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "SLOW_DOWN_VAL",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "SLOW_DOWN_VAL = 1598\nNORMAL_SPEED_VAL = 1602\ncontrol_car_obj = ControlCar(NORMAL_SPEED_VAL)\ncontrol_car_obj.prepair_run()\ntime.sleep(1)\ncam = CameraGet(0).start() \na = TwoMidMethodManager(cam.frame)\na.start()\ncontrol_car_obj.car_state.set_motor_value(NORMAL_SPEED_VAL)\ncontrol_car_obj.control_speed()",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "NORMAL_SPEED_VAL",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "NORMAL_SPEED_VAL = 1602\ncontrol_car_obj = ControlCar(NORMAL_SPEED_VAL)\ncontrol_car_obj.prepair_run()\ntime.sleep(1)\ncam = CameraGet(0).start() \na = TwoMidMethodManager(cam.frame)\na.start()\ncontrol_car_obj.car_state.set_motor_value(NORMAL_SPEED_VAL)\ncontrol_car_obj.control_speed()\nis_missing_lane = False",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "control_car_obj",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "control_car_obj = ControlCar(NORMAL_SPEED_VAL)\ncontrol_car_obj.prepair_run()\ntime.sleep(1)\ncam = CameraGet(0).start() \na = TwoMidMethodManager(cam.frame)\na.start()\ncontrol_car_obj.car_state.set_motor_value(NORMAL_SPEED_VAL)\ncontrol_car_obj.control_speed()\nis_missing_lane = False\ndetect_sign_thread = YOLOThread(cam.frame).start()",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "cam",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "cam = CameraGet(0).start() \na = TwoMidMethodManager(cam.frame)\na.start()\ncontrol_car_obj.car_state.set_motor_value(NORMAL_SPEED_VAL)\ncontrol_car_obj.control_speed()\nis_missing_lane = False\ndetect_sign_thread = YOLOThread(cam.frame).start()\n# detect_sign = YoloDetect()\nwhile(True):\n    try:",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "a = TwoMidMethodManager(cam.frame)\na.start()\ncontrol_car_obj.car_state.set_motor_value(NORMAL_SPEED_VAL)\ncontrol_car_obj.control_speed()\nis_missing_lane = False\ndetect_sign_thread = YOLOThread(cam.frame).start()\n# detect_sign = YoloDetect()\nwhile(True):\n    try:\n        key = cv2.waitKey(1)",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "is_missing_lane",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "is_missing_lane = False\ndetect_sign_thread = YOLOThread(cam.frame).start()\n# detect_sign = YoloDetect()\nwhile(True):\n    try:\n        key = cv2.waitKey(1)\n        if(key==ord('q')):\n            break\n        frame = cam.frame\n        a.frame = frame",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "detect_sign_thread",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "detect_sign_thread = YOLOThread(cam.frame).start()\n# detect_sign = YoloDetect()\nwhile(True):\n    try:\n        key = cv2.waitKey(1)\n        if(key==ord('q')):\n            break\n        frame = cam.frame\n        a.frame = frame\n        final_image = a.final_image",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "SPEED_UP_SPEED_VAL",
+        "kind": 5,
+        "importPath": "test_no_yolo",
+        "description": "test_no_yolo",
+        "peekOfCode": "SPEED_UP_SPEED_VAL = speed_cfg.SPEED_UP_SPEED_VAL\nSLOW_DOWN_SPEED_VAL = speed_cfg.SLOW_DOWN_SPEED_VAL\nNORMAL_SPEED_VAL = speed_cfg.NORMAL_SPEED_VAL\n# INITATION \ncontrol_car_obj = ControlCar(NORMAL_SPEED_VAL)\ncontrol_car_obj.prepair_run()\ntime.sleep(1)\n#CAMERA\ncam = CameraGet(0)\ncam.start()",
+        "detail": "test_no_yolo",
+        "documentation": {}
+    },
+    {
+        "label": "SLOW_DOWN_SPEED_VAL",
+        "kind": 5,
+        "importPath": "test_no_yolo",
+        "description": "test_no_yolo",
+        "peekOfCode": "SLOW_DOWN_SPEED_VAL = speed_cfg.SLOW_DOWN_SPEED_VAL\nNORMAL_SPEED_VAL = speed_cfg.NORMAL_SPEED_VAL\n# INITATION \ncontrol_car_obj = ControlCar(NORMAL_SPEED_VAL)\ncontrol_car_obj.prepair_run()\ntime.sleep(1)\n#CAMERA\ncam = CameraGet(0)\ncam.start()\nlane_detect = TwoMidMethodManager(cam.frame)",
+        "detail": "test_no_yolo",
+        "documentation": {}
+    },
+    {
+        "label": "NORMAL_SPEED_VAL",
+        "kind": 5,
+        "importPath": "test_no_yolo",
+        "description": "test_no_yolo",
+        "peekOfCode": "NORMAL_SPEED_VAL = speed_cfg.NORMAL_SPEED_VAL\n# INITATION \ncontrol_car_obj = ControlCar(NORMAL_SPEED_VAL)\ncontrol_car_obj.prepair_run()\ntime.sleep(1)\n#CAMERA\ncam = CameraGet(0)\ncam.start()\nlane_detect = TwoMidMethodManager(cam.frame)\nlane_detect.start()",
+        "detail": "test_no_yolo",
+        "documentation": {}
+    },
+    {
+        "label": "control_car_obj",
+        "kind": 5,
+        "importPath": "test_no_yolo",
+        "description": "test_no_yolo",
+        "peekOfCode": "control_car_obj = ControlCar(NORMAL_SPEED_VAL)\ncontrol_car_obj.prepair_run()\ntime.sleep(1)\n#CAMERA\ncam = CameraGet(0)\ncam.start()\nlane_detect = TwoMidMethodManager(cam.frame)\nlane_detect.start()\ncontrol_car_obj.car_state.set_motor_value(NORMAL_SPEED_VAL)\ncontrol_car_obj.control_speed()",
+        "detail": "test_no_yolo",
+        "documentation": {}
+    },
+    {
+        "label": "cam",
+        "kind": 5,
+        "importPath": "test_no_yolo",
+        "description": "test_no_yolo",
+        "peekOfCode": "cam = CameraGet(0)\ncam.start()\nlane_detect = TwoMidMethodManager(cam.frame)\nlane_detect.start()\ncontrol_car_obj.car_state.set_motor_value(NORMAL_SPEED_VAL)\ncontrol_car_obj.control_speed()\nis_missing_lane = False\nwhile(True):\n    try:\n        key = cv2.waitKey(1)",
+        "detail": "test_no_yolo",
+        "documentation": {}
+    },
+    {
+        "label": "lane_detect",
+        "kind": 5,
+        "importPath": "test_no_yolo",
+        "description": "test_no_yolo",
+        "peekOfCode": "lane_detect = TwoMidMethodManager(cam.frame)\nlane_detect.start()\ncontrol_car_obj.car_state.set_motor_value(NORMAL_SPEED_VAL)\ncontrol_car_obj.control_speed()\nis_missing_lane = False\nwhile(True):\n    try:\n        key = cv2.waitKey(1)\n        if(key==ord('q')):\n            break",
+        "detail": "test_no_yolo",
+        "documentation": {}
+    },
+    {
+        "label": "is_missing_lane",
+        "kind": 5,
+        "importPath": "test_no_yolo",
+        "description": "test_no_yolo",
+        "peekOfCode": "is_missing_lane = False\nwhile(True):\n    try:\n        key = cv2.waitKey(1)\n        if(key==ord('q')):\n            break\n        frame = cam.frame\n        lane_detect.frame = frame\n        final_image = a.final_image\n        l1 = lane_detect.l1",
+        "detail": "test_no_yolo",
+        "documentation": {}
+    },
+    {
+        "label": "yolo",
+        "kind": 5,
+        "importPath": "test_with_image",
+        "description": "test_with_image",
+        "peekOfCode": "yolo = YoloDetect()\nimg = cv2.imread('1.jpg')\na = yolo.detect_return_sign_name(img)\nprint(a)",
+        "detail": "test_with_image",
+        "documentation": {}
+    },
+    {
+        "label": "img",
+        "kind": 5,
+        "importPath": "test_with_image",
+        "description": "test_with_image",
+        "peekOfCode": "img = cv2.imread('1.jpg')\na = yolo.detect_return_sign_name(img)\nprint(a)",
+        "detail": "test_with_image",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "test_with_image",
+        "description": "test_with_image",
+        "peekOfCode": "a = yolo.detect_return_sign_name(img)\nprint(a)",
+        "detail": "test_with_image",
+        "documentation": {}
+    }
+]

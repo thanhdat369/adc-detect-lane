@@ -1,0 +1,6 @@
+python inference.py --model b_edgetpu.tflite --anchors cfg/tiny_yolo_anchors.txt --classes cfg/coco.names --image test.jpg --quant
+python inference.py --model b_edgetpu.tflite --anchors cfg/tiny_yolo_anchors.txt --classes cfg/coco.names --image test.jpg --quant  --edge_tpu 
+python inference.py --model b_edgetpu.tflite --anchors cfg/tiny_yolo_anchors.txt --classes cfg/coco.names  --cam --quant  --edge_tpu 
+python inference.py --model b_edgetpu.tflite --anchors cfg/tiny_yolo_anchors.txt --classes cfg/coco.names  --video 15_06_03.avi--quant  --edge_tpu 
+python inference.py --model b.tflite --anchors cfg/tiny_yolo_anchors.txt --classes cfg/coco.names  --video 15_06_03.avi--quant  
+python inference.py --model b.tflite --anchors cfg/tiny_yolo_anchors.txt --classes cfg/coco.names --image test.jpg 
